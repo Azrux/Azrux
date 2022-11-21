@@ -2,7 +2,7 @@
   <img src='./Imagenes/Full Stack Web GitHub.png' alt='Banner introduction' />
 </p>
 
-# 🛠 Tech skills:
+# 🛠 Habilidades técnicas:
 <div>
   <img height='40' width='40' src='./Logos/css3.svg'/>
   <img height='40' width='40' src='./Logos/cssmodules.svg'/>
@@ -19,7 +19,7 @@
 </div>
 <br>
 
-# 📚 Projects:
+# 📚 Proyectos:
 <div>
 
   ## Countries!
