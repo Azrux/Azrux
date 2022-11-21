@@ -4,18 +4,18 @@
 
 # 🛠 Habilidades técnicas:
 <div>
-  <img height='40' width='40' src='./Logos/css3.svg' alt='css'/>
-  <img height='40' width='40' src='./Logos/cssmodules.svg'/>
-  <img height='40' width='40' src='./Logos/bootstrap.svg'/>
-  <img height='40' width='40' src='./Logos/html5.svg'/>
-  <img height='40' width='40' src='./Logos/javascript.svg'/>
-  <img height='40' width='40' src='./Logos/react.svg'/>
-  <img height='40' width='40' src='./Logos/redux.svg'/>
-  <img height='40' width='40' src='./Logos/nodedotjs.svg'/>
-  <img height='40' width='40' src='./Logos/express.svg'/>
-  <img height='40' width='40' src='./Logos/postgresql.svg'/>
-  <img height='40' width='40' src='./Logos/sequelize.svg'/>
-  <img height='40' width='40' src='./Logos/git.svg'/>
+  <img height='40' width='40' src='./Logos/css3.svg' title='CSS' alt='css'/>
+  <img height='40' width='40' src='./Logos/cssmodules.svg' title='CSS modules' alt='cssModules'/>
+  <img height='40' width='40' src='./Logos/bootstrap.svg' title='Bootstrap' alt='bootstrap'/>
+  <img height='40' width='40' src='./Logos/html5.svg' title='HTML 5' alt='html5'/>
+  <img height='40' width='40' src='./Logos/javascript.svg' title='JavaScript' alt='javascript'/>
+  <img height='40' width='40' src='./Logos/react.svg' title='ReactJs' alt='react'/>
+  <img height='40' width='40' src='./Logos/redux.svg' title='Redux' alt='redux'/>
+  <img height='40' width='40' src='./Logos/nodedotjs.svg' title='Node.js' alt='nodeJs'/>
+  <img height='40' width='40' src='./Logos/express.svg' title='Express.js' alt='express'/>
+  <img height='40' width='40' src='./Logos/postgresql.svg' title='PostgreSQL' alt='postgres'/>
+  <img height='40' width='40' src='./Logos/sequelize.svg' title='Sequelize' alt='sequelize'/>
+  <img height='40' width='40' src='./Logos/git.svg' title='Git' alt='git'/>
 </div>
 <br>
 
@@ -44,8 +44,9 @@
 
 # 📎 Contactame:
 <p>
+  Estoy en LinkedIn: <br>
   <a href='https://www.linkedin.com/in/laura-marcenaro/'>
-    <img height='40' width='40' src='./Logos/linkedin.svg'/>
+    <img height='40' width='40' src='./Logos/linkedin.svg' title='LinkedIn' alt='linkedin'/>
   </a>
 </p>
 <p>
