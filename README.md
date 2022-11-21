@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align='center'>
+  <img src='./Full Stack Web GitHub.png' alt='Banner introduction' />
+</p>
 
 <!--
 **Azrux/Azrux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
