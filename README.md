@@ -4,7 +4,7 @@
 
 # 🛠 Habilidades técnicas:
 <div>
-  <img height='40' width='40' src='./Logos/css3.svg'/>
+  <img height='40' width='40' src='./Logos/css3.svg' alt='css'/>
   <img height='40' width='40' src='./Logos/cssmodules.svg'/>
   <img height='40' width='40' src='./Logos/bootstrap.svg'/>
   <img height='40' width='40' src='./Logos/html5.svg'/>
