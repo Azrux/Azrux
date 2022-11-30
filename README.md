@@ -38,7 +38,7 @@
   </p>
   <p>
     App administrativa para un club deportivo.<br>
-    <a href='https://proyecto-final-one-murex.vercel.app/'>Link</a>
+    <a href='https://github.com/MATarg81/proyecto-final'>Link</a>
   </p>
 </div>
 
