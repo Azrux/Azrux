@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src='./Imagenes/Full Stack Web GitHub.png' alt='Banner introduction' />
+  <img src='https://www.bleepstatic.com/content/hl-images/2018/07/13/GitHub-logo.png' />
 </p>
 
 # 🛠 Habilidades técnicas:
