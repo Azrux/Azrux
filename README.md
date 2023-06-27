@@ -45,7 +45,7 @@
 # 📎 Contactame:
 <p>
   Estoy en LinkedIn: <br>
-  <a href='https://www.linkedin.com/in/laura-marcenaro/'>
+  <a href='https://www.bleepstatic.com/content/hl-images/2018/07/13/GitHub-logo.png'>
     <img height='40' width='40' src='./Logos/linkedin.svg' title='LinkedIn' alt='linkedin'/>
   </a>
 </p>
