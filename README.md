@@ -12,7 +12,7 @@
 <h3>Little facts about me 👩‍🦱</h3>
 
 - 🧞 I'm a Tech Enthusiast since childhood.
-- 🔭 I’m currently working on Fullstack Web Development.
+- 🔭 I’m currently working as Fullstack Web Development.
 - 👯 I’m looking to learn more and more.
 - ⚡ Fun fact: I love the piano and videogames.
 <br>
