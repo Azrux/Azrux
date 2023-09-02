@@ -54,6 +54,7 @@
 <code><a href="https://www.postgresql.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" height="30"></a></code>
 <code><a href="https://sequelize.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize" height="30"></a></code>
 <code><a href="https://auth0.com/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/auth0-512.png" alt="auth0" height="30"></a></code>
+<code><a href="https://strapi.io/" target="_blank"><img src="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/32f3a89c-99c4-466f-8536-dd75f65fa320/Strapi-Monogram/w=1920,quality=80" alt="strapi" height="30"></a></code>
 </details>
 <br>
 
